@@ -196,11 +196,11 @@ header li a:hover {
 
 header .logo {
   margin-bottom: 1rem;
-  transition: transform .4s;
+  transition: transform .7s;
 }
 
 header .logo:hover {
-  transform: scale(.95);
+  transform: scale(.9);
 }
 
 .hero {
